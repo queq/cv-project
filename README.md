@@ -1,2 +1,2 @@
 # cv-project
-Source code for my undergrad final project
+Learning Computer Vision by playing with some codes and a Microsoft Kinect.
